@@ -1,0 +1,58 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "India won the ICC Cricket World Cup in 2011 under captain MS Dhoni."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Sachin Tendulkar scored 100 international centuries."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Virat Kohli has scored more than 50 ODI centuries."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Rohit Sharma scored three double centuries in One Day Internationals."
+  },
+  {
+    "sport": "Football",
+    "fact": "Argentina won the FIFA World Cup in 2022."
+  },
+  {
+    "sport": "Football",
+    "fact": "Lionel Messi won the Golden Ball at the 2022 FIFA World Cup."
+  },
+  {
+    "sport": "Football",
+    "fact": "Cristiano Ronaldo is Portugal's all-time leading goal scorer."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won its first Thomas Cup title in 2022."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "P. V. Sindhu won a silver medal at the 2016 Rio Olympics."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "Kidambi Srikanth reached World No. 1 in men's singles."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Michael Jordan won six NBA championships with the Chicago Bulls."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The Boston Celtics are among the NBA teams with the most championships."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Novak Djokovic has won multiple Grand Slam singles titles."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Roger Federer won 20 Grand Slam singles titles."
+  }
+]
