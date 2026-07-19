@@ -5,3 +5,4 @@ onnxruntime
 python-dotenv
 requests
 beautifulsoup4
+duckduckgo-search
